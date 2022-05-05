@@ -3,7 +3,7 @@
 * Стремлюсь к "чистому коду".
 * Стремлюсь к участию в разработке инновационных продуктов.
 
-### Hi there 👋
+
 
 <!--
 **DenisKolokolchikov/DenisKolokolchikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
